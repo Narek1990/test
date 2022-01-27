@@ -69,6 +69,9 @@ display: flex;
     background-color: #1f78a5;
     color:white;
     
+
+
+    
 }
 select{
     background-color: transparent;
@@ -80,6 +83,7 @@ height: 100%;
 border-radius: 100%;
 margin: 10px;
 }
+
 .right2, .right3, .right4{
     display: flex;
     align-items: center;
@@ -101,4 +105,8 @@ height: 100%;
 .icon1 {
     width: 15px;
     height: 15px;
+    padding: 2px;
+}
+#language:hover,#Name:hover{
+    background-color:#f6f6f6;
 }
