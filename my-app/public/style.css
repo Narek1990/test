@@ -68,10 +68,6 @@ display: flex;
 .right1 button:hover{
     background-color: #1f78a5;
     color:white;
-    
-
-
-    
 }
 select{
     background-color: transparent;
